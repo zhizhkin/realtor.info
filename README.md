@@ -5,6 +5,6 @@ Simple real estate service
 ## In the next updates:
 * Internal chat
 
-* Video object card
+* Object video card
 
-* Company profile verification
+* Verification of company accounts
